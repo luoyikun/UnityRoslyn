@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>ClassLibrary1</id>
+    <version>1.0.0</version>
+    <authors>ClassLibrary1</authors>
+    <developmentDependency>true</developmentDependency>
+    <description>Package Description</description>
+    <repository type="git" />
+  </metadata>
+  <files>
+    <file src="E:\WinProjects\ClassLibrary1\ClassLibrary1\bin\Release\netstandard2.0\ClassLibrary1.dll" target="analyzers\dotnet\cs\ClassLibrary1.dll" />
+  </files>
+</package>

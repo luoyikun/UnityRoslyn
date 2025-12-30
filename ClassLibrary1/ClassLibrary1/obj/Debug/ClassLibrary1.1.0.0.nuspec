@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ClassLibrary1</id>
+    <version>1.0.0</version>
+    <authors>ClassLibrary1</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="Microsoft.CodeAnalysis.CSharp" version="4.5.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\WinProjects\ClassLibrary1\ClassLibrary1\bin\Debug\netstandard2.1\ClassLibrary1.dll" target="analyzers\dotnet\cs\ClassLibrary1.dll" />
+  </files>
+</package>
